@@ -1,16 +1,16 @@
 ## Olá! Eu sou o Alex 👋
-<hr>
+
 
 - Estudante | Ensino Médio/Tecnico 📖
 
 - 15 Anos
 
-<hr>
+
 
 
 
 ## Alex' GitHub Stats:
-<hr>
+
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ&show_icons=true&theme=radical)
 
@@ -22,7 +22,7 @@
 
 
 ## Linguagens que Estou Estudando Atualmente:
-<hr>
+
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
