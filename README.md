@@ -11,7 +11,6 @@
 
 ## Alex' GitHub Stats:
 
-
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ&show_icons=true&theme=radical)
 
 ### Visite Meu Discord e Meu canal:
@@ -30,4 +29,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
      <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
+
+![snake gif](https://github.com/AlexSanderXDZ/AlexSanderXDZ/blob/output/github-contribution-grid-snake.svg)
 
