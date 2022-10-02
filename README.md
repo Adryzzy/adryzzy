@@ -13,12 +13,14 @@
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ&show_icons=true&theme=radical)
 
+<!-- 
+
 ### Visite Meu Discord e Meu canal:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kdVKKpQPBA)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGwFA0eXxjD68lBuuZ4iPPQ)
 
-
+-->
 
 ## Linguagens que Estou Estudando Atualmente:
 
