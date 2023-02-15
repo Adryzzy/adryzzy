@@ -1,4 +1,4 @@
-## Olá! Eu sou o Adryan 👋
+## Oi, Meu Nome é Adryan 👋
 
 
 - Aluno do Ensino Médio com Habilitação Técnica e Profissional em Desenvolvimento de Sistemas 2° ANO
