@@ -3,7 +3,7 @@
 
 - Aluno do Ensino Médio com Habilitação Técnica e Profissional em Desenvolvimento de Sistemas 2° ANO
 
-- HTML | CSS | DESIGN | MySQL | C#
+- HTML | CSS | DESIGN | C#
 
 - 16 Anos
 
