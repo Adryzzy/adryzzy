@@ -15,7 +15,7 @@
 ## Alex' GitHub Stats:
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSanderXDZ&langs_count=8)](https://github.com/AlexSanderXDZ/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSanderXDZ&layout=compact&langs_count=6&theme=radical"/>
 
 <!-- 
 
