@@ -18,7 +18,7 @@ Atualmente, estou cursando o Ensino Médio Integrado em Desenvolvimento de Siste
 
 ### Banco de dados
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- 
+
 ## 📊 Estatísticas do GitHub
 ![Adryan Stats GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ37&show_icons=true&theme=transparent)
 
