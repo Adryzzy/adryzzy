@@ -1,40 +1,28 @@
-## Oi, Meu Nome é Adryan 👋
+# Adryan - Desenvolvedor Full Stack 👨‍💻
 
+## 👤 Sobre mim
+Atualmente, estou cursando o Ensino Médio Integrado em Desenvolvimento de Sistemas na Etec Adolpho Berezin, onde busco constantemente oportunidades para me aprimorar e me desenvolver na área de tecnologia. Tenho um interesse pelas áreas de inteligência artificial (IA) e segurança da informação, e estou sempre em busca de expandir meus conhecimentos e habilidades nessas áreas.
 
-- Aluno do Ensino Médio com Habilitação Técnica e Profissional em Desenvolvimento de Sistemas 2° ANO
+## 🔌 Habilidades e Linguagens
+### Front-End
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- HTML | CSS | DESIGN | C# | JavaScript 
+### Back-End
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- 16/02/2007
+### Framework
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Banco de dados
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- 
+## 📊 Estatísticas do GitHub
+![Adryan Stats GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ37&show_icons=true&theme=transparent)
 
-
-
-
-
-## Alex' GitHub Stats:
-
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSanderXDZ&layout=compact&langs_count=6&theme=radical"/>
-
-<!-- 
-
-### Visite Meu Discord e Meu canal:
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kdVKKpQPBA)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGwFA0eXxjD68lBuuZ4iPPQ)
-
--->
-
-## Linguagens que Estou Estudando Atualmente:
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-     <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</div>
-
-![snake gif](https://github.com/AlexSanderXDZ/AlexSanderXDZ/blob/output/github-contribution-grid-snake.svg)
-
+## 🌐 Redes Sociais
+- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/havz.xd/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adryan.alex16@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryan-alexander-b6582a23a/)
