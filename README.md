@@ -1,9 +1,9 @@
 # Adryan - Desenvolvedor Full Stack 👨‍💻
 
-## 👤 Sobre mim
-Atualmente, estou cursando o Ensino Médio Integrado em Desenvolvimento de Sistemas na Etec Adolpho Berezin, onde busco constantemente oportunidades para me aprimorar e me desenvolver na área de tecnologia. Tenho um interesse pelas áreas de inteligência artificial (IA) e segurança da informação, e estou sempre em busca de expandir meus conhecimentos e habilidades nessas áreas.
+##  Sobre mim
+Atualmente, estou cursando o Ensino Médio Integrado em Desenvolvimento de Sistemas na Etec Adolpho Berezin, onde busco constantemente oportunidades para me aprimorar e me desenvolver na área de tecnologia.
 
-## 🔌 Habilidades e Linguagens
+##  Habilidades e Linguagens
 ### Front-End
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,10 +19,10 @@ Atualmente, estou cursando o Ensino Médio Integrado em Desenvolvimento de Siste
 ### Banco de dados
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 ![Adryan Stats GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ&show_icons=true&theme=transparent)
 
-## 🌐 Redes Sociais
+## Redes Sociais
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/havz.xd/)
 - [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adryan.alex16@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryan-alexander-b6582a23a/)
