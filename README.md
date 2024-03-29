@@ -1,4 +1,4 @@
-# Adryan - Desenvolvedor Full Stack 👨‍💻
+# Adryan - Estudante Nato 👨‍💻
 
 ##  Sobre mim
 Atualmente, estou cursando o Ensino Médio Integrado em Desenvolvimento de Sistemas na Etec Adolpho Berezin, onde busco constantemente oportunidades para me aprimorar e me desenvolver na área de tecnologia.
