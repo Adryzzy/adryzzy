@@ -3,6 +3,7 @@
 ## Sobre mim
 Sou formado no Ensino Médio com Técnico em **Desenvolvimento de Sistemas** pela **Etec Adolpho Berezin**. Apaixonado por tecnologia, busco continuamente aprimorar minhas habilidades como desenvolvedor e explorar novos desafios na área de TI. Atualmente, estou focado em projetos pessoais e no desenvolvimento de minhas competências técnicas para o mercado de trabalho.
 
+Atualmente, ainda não possuo muitos projetos publicados aqui, mas estou trabalhando para compartilhar mais em breve. Fique de olho!
 ## Habilidades e Linguagens
 
 ### Front-End  
