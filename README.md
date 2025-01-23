@@ -52,8 +52,7 @@ Estou trabalhando em um jogo de horror e suspense, utilizando a Unreal Engine. A
 ---
 
 ## Redes Sociais
-- [Instagram](https://www.instagram.com/allexy_z/)
-- [Gmail](mailto:adryan.alex16@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/adryan-alexander-b6582a23a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allexy_z/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adryan.alex16@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryan-alexander-b6582a23a/)
+
 
 
