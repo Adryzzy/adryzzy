@@ -56,5 +56,4 @@ Estou trabalhando em um jogo de horror e suspense, utilizando a Unreal Engine. A
 - [Gmail](mailto:adryan.alex16@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/adryan-alexander-b6582a23a/)
 
----
-Adryan Alexander
+
