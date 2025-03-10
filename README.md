@@ -5,8 +5,8 @@ Formado em **Desenvolvimento de Sistemas** pela **Etec Adolpho Berezin**, sou um
 ---
 
 ## 🚀 Estatísticas do GitHub
-![Adryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexSanderXDZ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSanderXDZ&layout=compact&theme=radical)
+![Adryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=adryzzy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryzzy&layout=compact&theme=radical)
 
 ---
 
