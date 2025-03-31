@@ -11,12 +11,6 @@ Formado em **Desenvolvimento de Sistemas** pela **Etec Adolpho Berezin**, sou um
 </div>  
 
 ---
-## Estatísticas do GitHub https://github.com/adryan-santana-flooxmongagua
-
-![Adryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=adryan-santana-flooxmongagua&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryan-santana-flooxmongagua&layout=compact&theme=radical)
-
----
 
 ## 🧑‍💻 Sobre Mim  
 - 💡 Curioso por inovação e novas tecnologias.  
@@ -73,6 +67,12 @@ Formado em **Desenvolvimento de Sistemas** pela **Etec Adolpho Berezin**, sou um
 </div>  
 
 ---
+
+## 🔗 Outros Perfis  
+Acesse meu outro perfil no GitHub:  
+🔗 [Adryan Santana](https://github.com/adryan-santana-flooxmongagua)  
+
+---  
 
 ## 📝 Projetos Recentes  
 
