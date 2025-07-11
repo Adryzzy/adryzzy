@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Adryan
 
-Formado em **Desenvolvimento de Sistemas** pela **ETEC Adolpho Berezin**, atualmente estou cursando **Ciência da Computação** na UNIP. Sou apaixonado por tecnologia e estou sempre buscando aprender mais, encarar novos desafios e desenvolver soluções criativas para o mundo real.
+Formado em **Desenvolvimento de Sistemas** pela **ETEC Adolpho Berezin**, atualmente estou cursando **Ciência da Computação** na UNIP. No momento estou procurando mais tecnologias para expandir meu conhecimento e utilizar no dia a dia
 
 ---
 
