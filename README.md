@@ -12,6 +12,12 @@ Formado em **Desenvolvimento de Sistemas** pela **Etec Adolpho Berezin**, sou um
 
 ---
 
+## 🔗 Perfil secundário 
+Acesse meu outro perfil no GitHub:  
+🔗 [Adryan Santana](https://github.com/adryan-santana-flooxmongagua)  
+
+---
+
 ## 🧑‍💻 Sobre Mim  
 - 💡 Curioso por inovação e novas tecnologias.  
 - 🔨 Interesse em desenvolvimento Front-End, Back-End e Banco de Dados.  
@@ -65,12 +71,6 @@ Formado em **Desenvolvimento de Sistemas** pela **Etec Adolpho Berezin**, sou um
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </div>  
-
----
-
-## 🔗 Outros Perfis  
-Acesse meu outro perfil no GitHub:  
-🔗 [Adryan Santana](https://github.com/adryan-santana-flooxmongagua)  
 
 ---  
 
