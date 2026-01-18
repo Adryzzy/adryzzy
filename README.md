@@ -69,7 +69,7 @@ Formado em Desenvolvimento de Sistemas pela ETEC e atualmente curso Ciência da 
   <a href="mailto:adryan.alex16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/adryan-alexander-b6582a23a/" target="_blank">
+  <a href="https://www.linkedin.com/in/adryan-alexander-b6582a23a/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
