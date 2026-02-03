@@ -52,7 +52,7 @@
 ## 🚧 Projetos em destaque
 
 ### 🏥 CompCare – Plataforma de Voluntariado Hospitalar
-Sistema Full Stack com React + Node.js + Firebase  
+Sistema Full Stack com React + Node.js + MongoDB  
 • Autenticação JWT  
 • Criação e candidatura de vagas  
 • Pontuação de voluntários  
