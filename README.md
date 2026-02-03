@@ -4,19 +4,6 @@ Formado em Desenvolvimento de Sistemas pela ETEC e atualmente curso Ciência da 
 
 ---
 
-## 🚀 GitHub Stats
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adryzzy&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adryzzy&layout=compact&theme=radical"/>
-</div>
-
----
-
-## 👥 Outros Perfis
-- 🔗 [Adryan Santana (perfil secundário)](https://github.com/adryan-santana-flooxmongagua)
-
----
-
 ## 🛠️ Tecnologias que já utilizei
 
 ### 🌐 Front-End
@@ -58,6 +45,11 @@ Formado em Desenvolvimento de Sistemas pela ETEC e atualmente curso Ciência da 
 
 - **🎮 Jogo na Unreal Engine**  
   Projeto de jogo de horror com narrativa imersiva e atmosfera envolvente.
+
+---
+
+## 👥 Outros Perfis
+- 🔗 [Adryan Santana (perfil secundário)](https://github.com/adryan-santana-flooxmongagua)
 
 ---
 
