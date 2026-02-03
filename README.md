@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Adryan Alex.
 
 💻 **Desenvolvedor Full Stack em formação**  
-🎓 Técnico em Desenvolvimento de Sistemas — ETEC Adolpho Berezin  
+🎓 Técnico em Desenvolvimento de Sistemas — ETEC
 🎓 Graduando em Ciência da Computação — UNIP  
 
 🚀 Foco em backend, APIs REST e aplicações web modernas  
