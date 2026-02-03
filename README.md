@@ -1,23 +1,29 @@
-# 👋 Olá, eu sou o Adryan Alex.
+# 👋 Olá, eu sou o Adryan Alex
 
-💻 **Desenvolvedor Full Stack em formação**
-🎓 Técnico em Desenvolvimento de Sistemas — ETEC
+💻 Desenvolvedor Full Stack em formação  
+🎓 Técnico em Desenvolvimento de Sistemas — ETEC  
 🎓 Graduando em Ciência da Computação — UNIP  
 
-🚀 Foco em backend, APIs REST e aplicações web modernas  
-📚 Sempre aprendendo novas tecnologias  
+🚀 Foco em Backend, APIs REST e aplicações web modernas  
+📚 Aprendizado contínuo e projetos práticos  
 🎯 Buscando estágio/oportunidades em TI  
 
+---
 
 ## ⭐ Sobre mim
 
-- 🔧 Experiência prática com Frontend + Backend
-- 🧠 Apaixonado por resolver problemas com código
-- 🏗️ Desenvolvimento de projetos reais (TCC, APIs, sistemas completos, jogos)
-- 📈 Evolução constante através de estudos e projetos próprios
+Sou desenvolvedor em início de carreira com experiência prática na construção de sistemas web completos, atuando tanto no front-end quanto no back-end.
 
+Tenho interesse especial por **arquitetura de APIs, backend, bancos de dados e boas práticas de código**, sempre buscando criar soluções simples, escaláveis e eficientes.
 
-## 🛠️ Skills
+✔️ Desenvolvimento Full Stack  
+✔️ Criação de APIs REST  
+✔️ Integração com banco de dados  
+✔️ Projetos acadêmicos e pessoais reais  
+
+---
+
+## 🛠️ Tecnologias
 
 ### 🌐 Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,32 +49,37 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🎨 Ferramentas
+### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## 🚧 Projetos em destaque
 
-### 🏥 CompCare – Plataforma de Voluntariado Hospitalar
-Sistema Full Stack com React + Node.js + MongoDB  
+### 🏥 CompCare — Plataforma de Voluntariado Hospitalar
+Aplicação Full Stack com React + Node.js + MongoDB  
 • Autenticação JWT  
-• Criação e candidatura de vagas  
+• Sistema de vagas e candidaturas  
 • Pontuação de voluntários  
-• Leaderboard  
+• Ranking (leaderboard)  
+• Arquitetura MVC
 
 ### 🏢 CondoView (TCC)
-Sistema para gestão de condomínios  
+Sistema de gestão condominial  
 • Comunicação entre moradores  
-• Avisos e reservas  
-• Organização administrativa  
+• Avisos, reservas e organização administrativa  
+• Projeto completo desenvolvido em equipe
 
 ### 🎮 Jogo de Horror (Unreal Engine)
-Projeto de jogo estilo Analog Horror/ARG  
+Projeto experimental estilo Analog Horror/ARG  
 • Narrativa imersiva  
 • Exploração dinâmica  
-• Atmosfera psicológica  
+• Foco em atmosfera psicológica
+
+---
 
 ## 📫 Contato
 
@@ -76,6 +87,7 @@ Projeto de jogo estilo Analog Horror/ARG
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryan-alexander-santana-da-silva-b6582a23a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allexy_z/)
 
+---
 
-## ✨ Frase
-> "Aprender, construir e evoluir todos os dias."
+## ✨ Filosofia
+> "Aprender, construir e evoluir um pouco todos os dias."
